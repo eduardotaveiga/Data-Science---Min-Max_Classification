@@ -17,6 +17,8 @@ That said, our task is to build a Machine Learning model to predict whether a sp
 
 Also, I would like to thank Kaneel Senevirathne for writing [this post] on medium which was my main source of inspiration for this project!
 
+![newplot](https://user-images.githubusercontent.com/76738265/197002365-eaefb92a-8594-4019-a18d-475de762d4a4.png)
 
+![newplot](https://user-images.githubusercontent.com/76738265/197002942-708133d2-5556-4ce1-af56-3e469923fef4.png)
 
 [this post]:https://medium.com/analytics-vidhya/how-im-using-machine-learning-to-trade-in-the-stock-market-3ba981a2ffc2
