@@ -28,7 +28,20 @@ With the predictions at hand, it's time to analyse the evolution of R$1000.00 (l
 ![newplot](https://user-images.githubusercontent.com/76738265/197359588-1ed4c6ac-dd81-4f7b-b3d7-7bb2c3395d92.png)
 
 
+|Stock|Train_set_LR|Test_set_LR |Train_set_RF|Test_set_RF|Train_set_SVC|Test_set_SVC|
+|-----|------------|------------||-----------|-----------|-------------|------------|
+|PETR4|6.417416e+09|1.647811e+07|1000.000000 |1000.0     |             |            |
+|VALE3|5.258041e+08|3.245516e+06|1000.000000 |1000.0     |             |            |
+|ITUB4|2.590539e+08|9.683918e+04|1000.000000 |1000.0     |             |            |
+|MGLU3|4.627618e+05|1.228008e+05|1000.000000 |1000.0     |             |            |
+|PRIO3|8.793738e+04|1.024000e+05|1000.000000 |1000.0     |             |            |
+|BBAS3|3.562421e+09|4.293427e+05|1524.762499 |1000.0     |             |            |
+|BBDC4|2.003126e+06|2.649287e+04|4578.484050 |1000.0     |             |            |
+|ELET3|1.232198e+10|8.434031e+06|5276.491156 |1000.0     |             |            |
+|B3SA3|1.152574e+07|1.949376e+05|2453.195532 |1000.0     |             |            |
+|RENT3|9.864012e+07|7.540797e+04|1000.000000 |1000.0     |             |            |
 
+Note: results may vary due to randomness.
 
 See the *1. Project planning* notebook for more information!
 Also, I would like to thank Kaneel Senevirathne for writing [this post] on medium which was my main source of inspiration for this project!
