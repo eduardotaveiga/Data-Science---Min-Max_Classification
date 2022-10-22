@@ -1,7 +1,7 @@
 # Data-Science---Min-Max_Classification
 Trying to predict whether we should buy, sell or hold a specific stock.
 
-*This work is currently on progress*
+*This work is currently in progress*
 
 First things first, a brief disclaimer: it is not my intention to give any kind of investment recommendation and I do not guarantee that you will have any benefits by using or replicating what is shown here. Everything was done only considering educational purposes.
 
@@ -46,7 +46,7 @@ Note: results may vary due to randomness.
 See the *1. Project planning* notebook for more information!
 Also, I would like to thank Kaneel Senevirathne for writing [this post] on medium which was my main source of inspiration for this project!
 
-*This work is currently on progress*
+*This work is currently in progress*
 Next steps:
 Get SVC results
 Monte Carlo simulations
